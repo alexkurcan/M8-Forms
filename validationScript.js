@@ -10,3 +10,6 @@
         // Valid input: display confirmation and submit the form
 
         // Invalid input: display error message
+const myForm = document.getElementById("myForm")
+const sumbitButton = document.getElementById("submitButton")
+const inputBox = document.getElementById("inputField")
